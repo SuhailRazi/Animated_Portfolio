@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Links from './links/links';
+import Links from './links/Links';
 import './sidebar.scss';
 import { motion } from 'framer-motion';
 import Togglebutton from './togglebutton/Togglebutton';
