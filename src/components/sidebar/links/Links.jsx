@@ -33,7 +33,6 @@ const Links = () => {
         "Service",
         "Portfolio",
         "Contact",
-        "About",
     ]
   return (
     <motion.div className='links'variants={variants}>
